@@ -10,6 +10,12 @@ Install dependencies:
 yarn
 ```
 
+Start the dev API server (powered by [JSON Server](https://github.com/typicode/json-server#readme)):
+
+```shell
+yarn start:api
+```
+
 Start the dev server:
 
 ```shell
